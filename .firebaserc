@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pokedex-f8c89": {
+      "hosting": {
+        "pokemon-app": [
+          "pokedex-f8c89"
+        ]
+      }
+    }
+  }
+}
